@@ -1,0 +1,1 @@
+This is a game jam project made by Dakota Erickson, Nathaniel Myers, Stephanie Davidson, Andy Beer. It is an infinite runner set in a post apocalyptic world where the player is collecting cans of food so they dont starve. Players have to maneuver through tight alleyways and jump over trucks and busses. 
